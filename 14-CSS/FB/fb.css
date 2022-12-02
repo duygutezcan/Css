@@ -1,0 +1,29 @@
+body {
+    background-color:darkblue;
+   
+  
+}
+p{
+    color:rgb(238, 238, 9);
+    font-size: large;
+}
+h3{
+        color: yellow;
+    }
+div{
+    border-style: solid;
+    border-width: 3px;
+    border-color: yellow;
+    color: white;
+    font-size: 18px;
+    border-radius: 15px;
+}
+button{
+    border-style: solid;
+    border-width: 3px;
+    border-color: gray;
+    background-color: yellow;
+    color:blue;
+    font-size: 12px;
+    border-radius: 5px;
+}

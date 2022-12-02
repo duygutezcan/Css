@@ -1,0 +1,38 @@
+.team{
+    font-family: Impact;
+    font-size: 20px;
+    
+}
+.btn{
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 3px;
+}
+.team-fb {
+    background-color: blue;
+    color: yellow;
+}
+.team-gs {
+    background-color: red;
+    color: yellow;
+}
+.team-bjk {
+    background-color: black;
+    color: white;
+}
+.btn-fb{
+    background-color: blue;
+    color: yellow;
+    border-color: yellow;
+}
+.btn-gs{
+    background-color: red;
+    color: yellow;
+    border-color: yellow;
+}
+.btn-bjk{
+    background-color: black;
+    color: white;
+    border-color: white;
+    
+}
